@@ -1,4 +1,4 @@
-#  Classification of Fashion-MNIST dataset using Convolutional neural network models. 
+#  Classification of Fashion-MNIST dataset using CNN models. 
 
 Implementation of different convolutional neural network models on Fashion MNIST dataset and comparision of their results.
 
