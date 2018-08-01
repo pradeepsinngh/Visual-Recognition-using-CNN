@@ -3,7 +3,8 @@ Classification of Fashion products using different neural network based models -
 
 
 ## Data
-Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. You can download it here -- https://github.com/zalandoresearch/fashion-mnist
+
 
 | Target Class  |   Definition  |
 |     :---:     |     :---:     |
@@ -18,7 +19,6 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 |       8       | Bag |
 |       9       | Ankle Boot  |
 
-You can download it here -- https://github.com/zalandoresearch/fashion-mnist
 
 ## Models:
 1. 2 Layer feedforward Nerual Netwrok
