@@ -1,9 +1,9 @@
-#  Classification of Fashion-MNIST dataset using CNN models. 
+## Classification of Fashion-MNIST dataset using CNN models. 
 
 Classification of Fashion products using different neural network based models -- Feedforward, CNN, VGG, etc.
 
 
-# Data
+## Data
 Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
 | Target Class  |   Definition  |
@@ -21,7 +21,7 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 You can download it here -- https://github.com/zalandoresearch/fashion-mnist
 
-# Models:
+## Models:
 1. 2 Layer feedforward Nerual Netwrok
 2. CNN (1 Conv layer)
 3. CNN (3 Conv layer)
@@ -29,7 +29,7 @@ You can download it here -- https://github.com/zalandoresearch/fashion-mnist
 5. VGG
 6. VGG + Batch Normalization
 
-# Results
+## Results
 Out of all experiments, model with VGG + Batch Normalization performed the best with almost 95% accuracy.
 
 | Model | Accuracy |
