@@ -23,7 +23,21 @@ You can download it here -- https://github.com/zalandoresearch/fashion-mnist
 
 # Models:
 1. 2 Layer feedforward Nerual Netwrok
-2. CNN
-3.
-4.
-5. 
+2. CNN (1 Conv layer)
+3. CNN (3 Conv layer)
+4. CNN (4 Conv layer) + Batch Normalization
+5. VGG
+6. VGG + Batch Normalization
+
+# Results
+Out of all experiments, model with VGG + Batch Normalization performed the best with almost 95% accuracy.
+
+| Model | Accuracy |
+| :---: |   :---:   |
+| 2 Layer Nerual Netwrok |    88%   |
+| CNN (1 Conv layer) | 91%  |
+| CNN (3 Conv layer) | 91%  |
+| CNN (4 Conv layer) + Batch Normalization | 92%   |
+|  VGG     | 93%  |
+| VGG + Batch Normalization| 95%  |
+
