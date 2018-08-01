@@ -39,5 +39,5 @@ Out of all experiments, model with VGG + Batch Normalization performed the best 
 | CNN (3 Conv layer) | 91%  |
 | CNN (4 Conv layer) + Batch Normalization | 92%   |
 |  VGG     | 93%  |
-| VGG + Batch Normalization| 95%  |
+| VGG + Batch Normalization| 94%  |
 
