@@ -1,5 +1,4 @@
-## Classification of Fashion-MNIST dataset using CNN models. 
-
+## Image Classification using CNN models:
 Classification of Fashion products using different neural network based models -- Feedforward, CNN, VGG, etc.
 
 
