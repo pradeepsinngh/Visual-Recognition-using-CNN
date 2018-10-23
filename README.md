@@ -30,7 +30,7 @@ You can download it here -- https://github.com/zalandoresearch/fashion-mnist
 6. VGG + Batch Normalization
 
 ## Data Augmentation:
-Since, my data set only had 60,000 test cases, which is quite less for a deep learning model (for eg: VGG). So, I have used data (image) augmentation technique to increase the number of images and also to improve the quality of images. This has helped me 
+Since, my data set only had 60,000 test cases, which is quite less for a deep learning model (for eg: VGG). So, I have used data (image) augmentation technique to increase the number of images and also to improve the quality of images. 
 
 ## Overfitting and Underfitting:
 - Dropout
