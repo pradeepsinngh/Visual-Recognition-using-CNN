@@ -1,4 +1,4 @@
-## Image Classification using CNN models:
+# Image Classification using CNN models:
 Classification of Fashion products using different neural network based models -- Feedforward, CNN and VGG, etc.
 
 
@@ -28,6 +28,13 @@ You can download it here -- https://github.com/zalandoresearch/fashion-mnist
 4. CNN (4 Conv layer) + Batch Normalization
 5. VGG
 6. VGG + Batch Normalization
+
+## Data Augmentation:
+Since, my data set only had 60,000 test cases, which is quite less for a deep learning model (for eg: VGG). So, I have used data (image) augmentation technique to increase the number of images and also to improve the quality of images. This has helped me 
+
+## Overfitting and Underfitting:
+- Dropout
+- Data Augmentation
 
 ## Results
 Out of all experiments, model with VGG + Batch Normalization performed the best with almost 95% accuracy.
