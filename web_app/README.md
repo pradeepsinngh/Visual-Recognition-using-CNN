@@ -1,13 +1,6 @@
-# image-recognition-resnet50-flask
+# Image Recognition using Flask
 
-## Demo Video
 
-[![Watch the video](https://i.ytimg.com/vi/Raiy4SVW_YY/0.jpg)](https://www.youtube.com/embed/Raiy4SVW_YY)
-
-## BackEnd
-
-```
-Python 3.6.8
 ```
 ## Install
 
