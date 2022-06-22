@@ -1,6 +1,6 @@
 Werkzeug==0.15.3
 Flask==1.0
-numpy==1.17.2
+numpy==1.22.0
 tensorflow
 gevent
 pillow
